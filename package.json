@@ -24,8 +24,5 @@
     "express",
     "freeCodeCamp"
   ],
-  "license": "MIT",
-  "devDependencies": {
-    "dotenv": "^16.0.3"
-  }
+  "license": "MIT"
 }
